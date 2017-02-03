@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/root/AndroidStudioProjects/SimpleMessenger/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/root/Downloads/Andriod/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/root/Downloads/Andriod/SimpleMessenger/app/src/main/res/layout/main.xml"
+    }
+]

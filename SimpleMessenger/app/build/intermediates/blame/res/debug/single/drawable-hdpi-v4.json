@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Downloads/Andriod/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/root/Downloads/Andriod/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/SimpleMessenger/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
